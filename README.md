@@ -12,4 +12,4 @@
 
 • A glimpse of the Output :
 
- ![130051229-1da23518-03ed-4869-a529-4fcbfbe73818](https://user-images.githubusercontent.com/88212477/130051229-1da23518-03ed-4869-a529-4fcbfbe73818.mp4)
+ !(https://user-images.githubusercontent.com/88212477/130051229-1da23518-03ed-4869-a529-4fcbfbe73818.mp4)
