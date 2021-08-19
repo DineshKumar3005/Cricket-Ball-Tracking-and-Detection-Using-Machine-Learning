@@ -12,4 +12,4 @@
 
 • A glimpse of the Output :
 
- !(Cricket-Ball-Tracking-and-Detection-Using-Machine-Learning/Tracking a fast moving cricket ball-1.gif)
+ !(/Tracking a fast moving cricket ball-1.gif)
